@@ -10,4 +10,4 @@ Example:
 
 Use it directly at the URL below:
 
-[https://andrewhoyer.github.io/in-bio-meme-generator/](https://andrewhoyer.github.io/in-bio-meme-generator/)
+[https://andrewhoyer.github.io/in-bio-generator/](https://andrewhoyer.github.io/in-bio-generator/)
